@@ -21,6 +21,10 @@
 <div>
   <a href="https://www.linkedin.com/in/isadoratavare2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:isadoratavare85@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
-  
 </div>
+
+### Minha experiência
+  Na empresa júnior Seed A Bit participei como desenvolvedor front-end web por 8meses desenvolvendo sites e landing-pages com HTML, CSS e Javascript. Além disso, passei 6 meses como diretora de projetos desenvolvendo hard skills como liderança, comunicação e entre outros. Hoje participo de um programa de jovem aprendiz na empresa Facilit Tecnologia.
+
+### Meus Estudos
+  Há um bom tempo venho me dedicado ao desenvolvimento web e me aperfeiçoando com as linguagens Python e Javascript, além de praticar com projetos fazendo cursos que me ensinam as boas práticas da linguagem. Na graduação aprendo os fundamentos da programação, estruturas de dados, banco de dados e outros.
